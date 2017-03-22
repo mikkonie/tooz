@@ -1,3 +1,5 @@
+Modified by Mikko Nieminen (mikko.nieminen@bihealth.de)
+
 Tooz
 ====
 
